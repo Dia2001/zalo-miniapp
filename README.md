@@ -1,6 +1,7 @@
 1. https://mini.zalo.me/developers
 2. https://mini.zalo.me/docs/zaui
 3. https://www.figma.com/file/ME5AP7pt79huTBTMdnT7yX/%5BPUBLIC%5D-Zalo-Mini-App-Framework-2.0?node-id=0%3A1
+4. https://mini.zalo.me/tutorial/coffee-shop/step-3/
 # ZaUI Coffee
 
 <p style="display: flex; flex-wrap: wrap; gap: 4px">
