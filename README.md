@@ -1,3 +1,5 @@
+1. https://mini.zalo.me/developers
+2. https://mini.zalo.me/docs/zaui
 # ZaUI Coffee
 
 <p style="display: flex; flex-wrap: wrap; gap: 4px">
